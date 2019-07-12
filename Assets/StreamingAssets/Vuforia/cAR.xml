@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="osoMid" size="4608.000000 3456.000000" />
+    <ImageTarget name="tierra" size="800.000000 800.000000" />
+    <ImageTarget name="paisaje" size="4032.000000 5376.000000" />
+  </Tracking>
+</QCARConfig>
